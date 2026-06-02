@@ -7,7 +7,6 @@ Group 07- Custom Desktop Conveyor Belt System with Stepper Motor Control
 - umesha udayangani
 - Marage Don Charith Sanjeewa 
 - Walisundara Walisundara
-- Walisundara Walisundara
 - Lahiru Bandaranayake
 
 
